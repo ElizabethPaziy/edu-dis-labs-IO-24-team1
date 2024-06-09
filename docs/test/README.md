@@ -2,44 +2,40 @@
 
 ## GET
 
-### Отримати всі питання, які є в базі даних
+### Отримання всіх запитаннь
 
-<img src="https://i.postimg.cc/FFcfwBPb/Test1.jpg">
+<img src="https://i.postimg.cc/6pfFJDkc/get-all.png">
 
-### Отримати одне питання за ID
+### Отримання запитання по ID
 
-<img src="https://i.postimg.cc/wTptzQPC/Test2.jpg">
+<img src="https://i.postimg.cc/25jMz0mD/get-id.png">
 
 ## POST
 
-### Створення нового питання
+### Створення запитання
 
-<img src="https://i.postimg.cc/zGDVbXqp/Test3.jpg">
+<img src="https://i.postimg.cc/d0WXDGtT/post.png">
 
 ### Перевірка
 
-<img src="https://i.postimg.cc/SNfnxzbJ/Test4.jpg">
+<img src="https://i.postimg.cc/63yPZTyb/post-check.png">
 
 ## PUT
 
-### Оновлення питання
+### Оновлення запитання
 
-<img src="https://i.postimg.cc/DwCmqkZh/Test5.jpg">
+<img src="https://i.postimg.cc/mDJ5yR9L/put.png">
 
 ### Перевірка
 
-<img src="https://i.postimg.cc/k5BGs16b/Test6.jpg">
+<img src="https://i.postimg.cc/MZf4KMkv/put-check.png">
 
 ## DELETE
 
-### Видалення питання
+### Видалення запитання
 
-<img src="https://i.postimg.cc/RFtF5WTC/Test7.jpg">
+<img src="https://i.postimg.cc/MTTDL4wn/delete.png">
 
 ### Перевірка
 
-<img src="https://i.postimg.cc/W4C3HGgf/Test8.jpg">
-
-## MySQL
-
-<img src="https://i.postimg.cc/SRpKymZ6/Test9.jpg">
+<img src="https://i.postimg.cc/pLH3S26y/delete-check.png">
